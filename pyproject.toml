@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Dufte - Ein Python-"
 authors = []
 requires-python = ">=3.10"
-dependencies = ["plotnine>=0.12.4"]
+dependencies = ["plotnine>=0.12.4", "pytest (>=9.0.2,<10.0.0)"]
 readme = "README.md"
 license = {text = "MIT"}
 
