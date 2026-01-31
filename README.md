@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saplinging/dufte/main/images/Finales_Logo_plot-dufte_WeißerHintergrund.png" alt="plot-dufte Logo" width="500">
+  <img src="https://github.com/Saplinging/dufte/blob/main/docs/images/Logo_plot-dufte_Wei%C3%9FerHintergrund.png?raw=true" alt="plot-dufte Logo" width="500">
   <br>
   <em>"Above all else show the data." – Edward Tufte (1983)</em>
 </p>
